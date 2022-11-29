@@ -12,9 +12,9 @@ Q = Teleport Forward,
 #
 0 = Teleport Down
 #
-U = Freeze/Unfreeze Character # Use outside of cutscenes
+U = Freeze/Unfreeze Character -- Use outside of cutscenes
 #
-K = Unlock Character # Use in cutscenes
+K = Unlock Character -- Use in cutscenes
 #
 H = Heals Player
 #
