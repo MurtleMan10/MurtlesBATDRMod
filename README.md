@@ -4,7 +4,7 @@ Mod created by Murtle
 #
 Credit to FCMakes for Unlock Character and Freeze/Unfreeze
 #
-Current Version: v1.0.2
+Current Version: v1.1.0
 Mod for: Bendy and the Dark Revival created by Joey Drew Studios
 
 HOTKEYS:
