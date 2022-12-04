@@ -1,9 +1,10 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using MelonLoader;
 using System.Runtime.InteropServices;
+using MurtleMod;
 
-[assembly: MelonInfo(typeof(MurtleMod.ModMain), "MurtleBATDRMod", "1.0.0", "Murtle")]
+[assembly: MelonInfo(typeof(MurtleMod.ModMain), "MurtleBATDRMod", "1.1.0", "Murtle")]
 [assembly: MelonGame("Joey Drew Studios", "Bendy and the Dark Revival")]
 
 // General Information about an assembly is controlled through the following
